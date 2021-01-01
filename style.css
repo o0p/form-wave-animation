@@ -32,3 +32,9 @@ body {
     text-decoration: none;
     color: lightblue;
 }
+
+.form-control {
+    position: relative;
+    margin: 1.25rem 0 2.5rem;
+    width: 18.75rem;
+}
