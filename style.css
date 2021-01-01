@@ -90,3 +90,8 @@ body {
     font-size: 1.125rem;
     min-width: 0.3125rem;
 }
+
+.form-control input:focus + label span,
+.form-control input:valid + label span{
+    color: lightblue;
+}
