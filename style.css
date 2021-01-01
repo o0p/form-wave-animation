@@ -49,6 +49,9 @@ body {
     outline: 0;
 }
 
+.btn:active {
+    transform: scale(0.98);   
+}
 
 .form-control {
     position: relative;
