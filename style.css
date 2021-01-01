@@ -38,3 +38,14 @@ body {
     margin: 1.25rem 0 2.5rem;
     width: 18.75rem;
 }
+
+.form-control input {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 0.125rem #fff solid;
+    display: block;
+    width: 100%;
+    padding: 0.9375rem;
+    font-size: 1.125rem;
+    color: #fff;
+}
